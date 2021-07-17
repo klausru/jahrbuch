@@ -1,6 +1,7 @@
 # jahrbuch based on themeIssues
 
-*OJS 3.1.2*
+works on www.medienpaed.com
+tested up to *OJS 3.3.0.7*
 
 Plugin for tagging theme issues and presenting them on a simple archive page.
 
@@ -9,5 +10,5 @@ After enabling the plugin see Issue settings and Issue Data tab. Use the checbox
 All theme issues listed in: *journalpath/jahrbuch* which you can add to your navigation menu.
 
 ***
-Plugin created by The Federation of Finnish Learned Societies (https://tsv.fi/en/).
+Plugin originally forked from https://github.com/ajnyga/themeIssues and adapted for www.medienpaed.com.
 ***
